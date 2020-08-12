@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "Familytree/ClientApp/",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - Familytree/ClientApp",
+			"detail": "ng build"
+		}
+	]
+}
